@@ -38,6 +38,6 @@ class NextPermutation {
 
 
 /**
- * Time Complexity: 
- * Space Complexty: 
+ * Time Complexity: O(n)
+ * Space Complexty: O(1)
  */
